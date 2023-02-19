@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="at.quelltextlich.jacoco.toolbox" type="repository">
+    <properties maven-id="at.quelltextlich.jacoco:jacoco-toolbox:0.4103.1" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/at/quelltextlich/jacoco/jacoco-toolbox/0.4103.1/jacoco-toolbox-0.4103.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/args4j/args4j/2.0.29/args4j-2.0.29.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jacoco/org.jacoco.core/0.7.5.201505241946/org.jacoco.core-0.7.5.201505241946.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/ow2/asm/asm-debug-all/5.0.1/asm-debug-all-5.0.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jacoco/org.jacoco.report/0.7.5.201505241946/org.jacoco.report-0.7.5.201505241946.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
